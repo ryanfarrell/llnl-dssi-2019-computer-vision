@@ -1,6 +1,9 @@
-# llnl-dsi-2019
+# Understanding, Interpreting and Learning from Visual Data
 
-## In this five-session course, I will present a carefully selected combination of classical and deep learning methods for a variety of visual data problems.  We will learn together about the following topics:
+### Abstract
+As the field of computer vision has rapidly been overtaken by deep learning, computer vision researchers have stepped to the forefront, both in pioneering and applying innovative deep-learning methods.  Yet there are some problems for which deep learning is either impractical or suboptimal.  Researchers equipped with both deep learning skills and an understanding of key classical methods/techniques will find themselves best prepared for the increasingly visual future of data science.
+
+In this five-session course, I will present a carefully selected combination of classical and deep learning methods for a variety of visual data problems.  We will learn together about the following topics:
 * Introduction to Visual Data - Visual data comes from diverse sources, has myriad representations and can be analyzed in many different ways.
 * Advanced Clustering and its Applications - Clustering is an important method for dealing with big data, but there are many nuances in how this is best done.
 * Metric Learning and Alternate Representations - Particularly with high-dimensional data, distance metrics, including those learned by supervision, can help us to distinguish the impediments from the important parts of our data.
