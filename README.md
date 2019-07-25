@@ -14,7 +14,7 @@ In this five-session course, I will present a carefully selected combination of 
 ## Slides/Materials
 
 ### Day One (July 25, 2019) - Introduction to Computer Vision
-Slides ( [PPTX](https://www.dropbox.com/s/01ox5526gqqeh52/20190725%20-%20DSI%20Seminar%20-%20Day%20One.pptx?dl=0), [PDF](20190725 - DSI Seminar - Day One.pdf) )
+Slides ([PPTX](https://www.dropbox.com/s/01ox5526gqqeh52/20190725%20-%20DSI%20Seminar%20-%20Day%20One.pptx?dl=1), [PDF](DayOneSlides.pdf))
 
 ### Day Two (July 30, 2019)
 
