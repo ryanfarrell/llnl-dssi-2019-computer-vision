@@ -10,13 +10,14 @@ In this five-session course, I will present a carefully selected combination of 
 * Data Visualization - In this era of deep-learning, one of the most important things that a data scientist can do is to spend time looking deeply at their data.
 * The Categorization Spectrum - In this final session, we will discuss the spectrum of recognition, beginning with basic-level objects like cars, trees and people and focusing in on the often long-tailed/data-limited problems of fine-grained recognition and biometrics.
 
+
 ## Slides/Materials
 
-*** Day One (July 25, 2019)
-Slides (PPTX, PDF)
+### Day One (July 25, 2019) - Introduction to Computer Vision
+Slides ( [PPTX](foo), [PDF](foo) )
 
-*** Day Two (July 30, 2019)
+### Day Two (July 30, 2019)
 
-*** Day Three (July 31, 2019)
+### Day Three (July 31, 2019)
 
-*** Day Four (August 1, 2019)
+### Day Four (August 1, 2019)
