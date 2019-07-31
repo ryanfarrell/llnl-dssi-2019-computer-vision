@@ -15,8 +15,9 @@ In this five-session course, I will present a carefully selected combination of 
 
 ### Day One (July 25, 2019) - Introduction to Computer Vision (Slides: [PPTX](https://www.dropbox.com/s/01ox5526gqqeh52/20190725%20-%20DSI%20Seminar%20-%20Day%20One.pptx?dl=1), [PDF](DayOneSlides.pdf))
 
-### Day Two (July 30, 2019) - Clustering / Metric Learning
+### Day Two (July 30, 2019) - Clustering / Metric Learning (Slides: [PPTX](https://www.dropbox.com/s/wspv8xj79qqiz8b/20190730%20-%20DSI%20Seminar%20-%20Day%20Two.pptx?dl=1), [PDF](DayTwoSlides.pdf))
 
-### Day Three (July 31, 2019) - Visualizing Your Data / Deep Learning
+### Day Three (July 31, 2019) - Categorization / FGVC (Slides: [PPTX](https://www.dropbox.com/s/21truozrfgi5bm0/20190731%20-%20DSI%20Seminar%20-%20Day%20Three.pptx?dl=1), [PDF](DayThreeSlides.pdf))
 
-### Day Four (August 1, 2019) - Categorization / FGVC
+### Day Four (August 2, 2019) - Visualizing Your Data / Deep Learning / Other Topics
+
