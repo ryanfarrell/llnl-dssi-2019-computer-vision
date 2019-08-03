@@ -19,5 +19,6 @@ In this five-session course, I will present a carefully selected combination of 
 
 ### Day Three (July 31, 2019) - Categorization / FGVC (Slides: [PPTX](https://www.dropbox.com/s/21truozrfgi5bm0/20190731%20-%20DSI%20Seminar%20-%20Day%20Three.pptx?dl=1), [PDF](DayThreeSlides.pdf))
 
-### Day Four (August 2, 2019) - Visualizing Your Data / Deep Learning / Other Topics
+### Day Four (August 2, 2019) - Visualizing Your Data / Deep Learning / Other Topics (Slides: [PPTX](https://www.dropbox.com/s/f5gm6vleohuunee/20190802%20-%20DSI%20Seminar%20-%20Day%20Four.pptx?dl=01), [PDF](DayFourSlides.pdf))
+
 
